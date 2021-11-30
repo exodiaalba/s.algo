@@ -1,0 +1,35 @@
+
+ALGORITHM suuhh
+PROCEDURE suuhh sorting_and_searching ()
+    VAR
+    a,n,y,suhh : INTEGER ;
+    BEGIN
+    a:= arr.length;
+    FOR n FROM 1 TO a  STEP 1 DO
+        att := arr [n] ;
+        y:= i-1 ;
+
+        WHILE (a >= arr[i] AND att < arr[y]) DO
+        arr [y+1] := arr[y] ;
+        y := y -1 ;
+        END_WHILE
+        ARR[ y+1] + att ;
+    END_FOR
+    END
+
+
+
+ALGORITHM suuhh sorting_and_searching
+VAR
+    arr: ARRAY_OF type[length];
+BEGIN
+    FOR n FROM 0 TO arr.length STEP 1  DO
+        write ( "enter the numbers :")
+        read ( arr [n]);
+    END_FOR
+    FOR n FROM 0 TO arr.length STEP 1  DO
+        write ("the new array :")
+        read (arr [a]) ;
+    END_FOR
+END
+ken tl3it s7i7a (5af 3ale bo93tik XD)
